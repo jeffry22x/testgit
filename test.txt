@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is my fist test file
 this is my fist test file
 this is my fist test file
@@ -18,3 +19,6 @@ this is my fist test file
 this is my fist test file
 
 this is my fist test filethis is my fist test file
+=======
+this is my fist test file this is my fist test filethis is my fist test filethis is my fist test file
+>>>>>>> 706b330688941d135ef4625de456c40b8181f388
